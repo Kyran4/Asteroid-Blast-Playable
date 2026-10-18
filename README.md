@@ -8,7 +8,7 @@ This repository contains the **built game only**, so there is nothing to compile
 
 1. Download this repo: click **Code → Download ZIP**, or clone it:
    ```bash
-   git clone https://github.com/Kyran4/AsteroidBlast.git
+   git clone https://github.com/Kyran4/Asteroid-Blast-Playable.git
    ```
 2. If you downloaded the ZIP, **extract it** first. Don't run the game from inside the ZIP.
 3. Open the folder and double-click the game's `.exe` file.
